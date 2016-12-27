@@ -1,4 +1,4 @@
-# R-cap-Project
+# RCapProject
 
 ![SwiftKey, Bloomberg & Coursera Logo](logos.png)
 
